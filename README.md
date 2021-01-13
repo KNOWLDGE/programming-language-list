@@ -1,7 +1,7 @@
 ### ****NOTE:** This is a brand new repository, it'll be a while before it is ready.
 
 <div align="center">
-<img width="450", height="217.5" src="Resources/coding-computer.png" alt="Programming Language List Icon">
+<img src="Resources/PLL-banner.png" alt="Programming Language Banner">
   
   [![forthebadge](https://forthebadge.com/images/badges/made-with-markdown.svg)](https://forthebadge.com)
 
