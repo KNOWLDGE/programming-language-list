@@ -10,7 +10,7 @@ Our goal is to have a multitude of Programming Languages listed with information
 [The Hello World Collection](http://helloworldcollection.de/) for their list of programming Languages.
 
 ## How to Contribute
-*Coming Soon*
+If you are intrested in Contributing click [Here](https://github.com/Maniacxxx/programming-language-list/blob/main/Contribute.md).
 
 ## List of Contributors
 *None as of this moment*
