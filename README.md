@@ -1,7 +1,7 @@
 ### ****NOTE:** This is a brand new repository, it'll be a while before it is ready.
 
 <div align="center">
-<img width="450", height="217.5" src="Resources/coding-computer.png" alt="List logo">
+<img width="450", height="217.5" src="Resources/coding-computer.png" alt="Programming Language List Icon">
   </div>
   
 # Programming Language List
