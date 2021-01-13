@@ -1,5 +1,9 @@
 ### ****NOTE:** This is a brand new repository, it'll be a while before it is ready.
 
+<div align="center">
+<img width="450", height="217.5" src="resources/list_feature.png" alt="List logo">
+  </div>
+  
 # Programming Language List
 
 
