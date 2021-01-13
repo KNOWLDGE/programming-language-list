@@ -2,4 +2,6 @@
 
 # Programming Language List
 
+
 ## Our Goal
+Our goal is to have a multitude of Programming Languages listed with information like their history, their use and more.
