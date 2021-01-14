@@ -8,7 +8,7 @@
     </div>
   
 # Programming Language List
-
+When you look at the [hello-world](https://github.com/topics/hello-world) topic you see repositories showing all of the coding languages out there. Sadly it only shows you how to print "Hello World", not how you learn it, find a use
 
 ## Our Goal
 Our goal is to have a multitude of Programming Languages listed with information like their history, their use and more.
