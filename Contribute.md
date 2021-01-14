@@ -1,7 +1,7 @@
 # Contribute
 
 ## Contributing
-placeholder
+If you are intrested in adding a Programming Language click [here](https://github.com/Maniacxxx/programming-language-list/blob/main/Language-Criteria.md).
 
 
 ## Translator
