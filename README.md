@@ -17,7 +17,7 @@ We know that this project is going to be long and hard, but you can help! If you
 
 ## Thanks to...
 - [The Hello World Collection](http://helloworldcollection.de/) for their list of programming Languages.
-- And our [Contributors](#List-of-Contributors)
+- And our [Contributors](#List-of-Contributors).
 
 ## List of Contributors
 *None as of this moment*
