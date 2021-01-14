@@ -9,7 +9,7 @@
   
 ---
 ## Our Goal
-Instead of just simply showing you how to print "Hello World". Our goal is to have a multitude of Programming Languages listed with information like their history, their use and more.
+Instead of just simply showing you how to print "Hello World" in a bunch of langueges. Our goal is to have a multitude of Programming Languages listed with information like their history, their use and more.
 
 ## Check it out
 Click [here]() to check out our progress!
