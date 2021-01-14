@@ -11,10 +11,10 @@
 
 
 ## Our Goal
-- Our goal is to have a multitude of Programming Languages listed with information like their history, their use and more.
+Our goal is to have a multitude of Programming Languages listed with information like their history, their use and more.
 
 ## Thanks to...
-[The Hello World Collection](http://helloworldcollection.de/) for their list of programming Languages.
+- [The Hello World Collection](http://helloworldcollection.de/) for their list of programming Languages.
 - And our [Contributors](#List-of-Contributors)
 
 ## How to Contribute
