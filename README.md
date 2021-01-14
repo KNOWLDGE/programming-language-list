@@ -15,7 +15,7 @@ Instead of just simply showing you how to print "Hello World" in a bunch of lang
 Click [here]() to check out our progress!
 
 ## How to Contribute
-We know that this project is going to be long and hard, but you can help! If you are intrested in Contributing click [Here](https://github.com/Maniacxxx/programming-language-list/blob/main/Contribute.md).
+We know that this project is going to be long and difficult, but you can help! If you are intrested in Contributing click [Here](https://github.com/Maniacxxx/programming-language-list/blob/main/Contribute.md).
 
 ## Thanks to...
 - [The Hello World Collection](http://helloworldcollection.de/) for their list of programming Languages.
