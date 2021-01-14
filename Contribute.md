@@ -4,4 +4,4 @@
 
 
 ## Translator
-`Currently we are only focusing on the english list. When we have a big portion of the list done, we'll update this`
+`Currently we are only focusing on the english list. When we have a big portion of the en-list done, we'll update this`
