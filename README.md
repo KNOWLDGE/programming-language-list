@@ -12,7 +12,7 @@
 Instead of just simply showing you how to print "Hello World" in a bunch of langueges. Our goal is to have a multitude of Programming Languages listed with information like their history, their use and more.
 
 ## Check it out
-Click [here]() to check out our progress!
+Click [here](https://github.com/Maniacxxx/programming-language-list/blob/main/Language-List.md) to check out our progress!
 
 ## How to Contribute
 We know that this project is going to be long and difficult, but you can help! If you are intrested in Contributing click [Here](https://github.com/Maniacxxx/programming-language-list/blob/main/Contribute.md).
