@@ -1,7 +1,7 @@
 ### ****NOTE:** This is a brand new repository, it'll be a while before it is ready.
 
 <div align="center">
-<img src="Resources/PLL-banner.png" alt="Programming Language Banner">
+<img src="Resources/PLL-banner.png" alt="Programming Language List Banner">
   
   [![forthebadge](https://forthebadge.com/images/badges/made-with-markdown.svg)](https://forthebadge.com)
 
