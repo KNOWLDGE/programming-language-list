@@ -8,17 +8,18 @@
     </div>
   
 ---
-When you look at the [hello-world](https://github.com/topics/hello-world) topic you see repositories showing all of the coding languages out there. Sadly it only shows you how to print "Hello World", not how you learn it, find a use
+When you look at the [hello-world](https://github.com/topics/hello-world) topic you see repositories showing all of the coding languages out there. Sadly it only shows you how to print "Hello World."
 
 ## Our Goal
-Our goal is to have a multitude of Programming Languages listed with information like their history, their use and more.
+Instead of just simply showing you how to print "Hello World". Our goal is to have a multitude of Programming Languages listed with information like their history, their use and more.
+
+## How to Contribute
+We know that this project is going to be long and hard, but you can help! If you are.If you are intrested in Contributing click [Here](https://github.com/Maniacxxx/programming-language-list/blob/main/Contribute.md).
+
 
 ## Thanks to...
 - [The Hello World Collection](http://helloworldcollection.de/) for their list of programming Languages.
 - And our [Contributors](#List-of-Contributors)
-
-## How to Contribute
-If you are intrested in Contributing click [Here](https://github.com/Maniacxxx/programming-language-list/blob/main/Contribute.md).
 
 ## List of Contributors
 *None as of this moment*
