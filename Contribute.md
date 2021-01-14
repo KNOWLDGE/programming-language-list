@@ -1,6 +1,7 @@
 # Contribute
 
-## Maintainer
+## Contributing
+placeholder
 
 
 ## Translator
