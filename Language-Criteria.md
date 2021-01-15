@@ -13,3 +13,6 @@
   - Needed Downloads
   - In-depth videos
   - In-depth text
+
+- Sources
+  - **Reliable Information** - ex. information from their site.
