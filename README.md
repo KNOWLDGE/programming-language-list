@@ -5,8 +5,8 @@
   
   [![forthebadge](https://forthebadge.com/images/badges/made-with-markdown.svg)](https://forthebadge.com)
   [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
-  https://forthebadge.com/images/badges/contains-17-coffee-cups.svg
-    </div>
+ [![forthebadge](https://forthebadge.com/images/badges/contains-17-coffee-cups.svg)](https://forthebadge.com)
+</div>
   
 ---
 ## Our Goal
