@@ -5,7 +5,6 @@
   
   [![forthebadge](https://forthebadge.com/images/badges/made-with-markdown.svg)](https://forthebadge.com)
   [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
-[cc-by-sa-image]: https://licensebuttons.net/l/by-sa/4.0/88x31.png
 
     </div>
   
