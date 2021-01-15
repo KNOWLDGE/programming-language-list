@@ -10,5 +10,6 @@
   - o
 
 - How to Learn (where you can learn)
+  - Needed Downloads
   - In-depth videos
   - In-depth text
