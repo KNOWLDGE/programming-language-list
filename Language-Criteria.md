@@ -2,9 +2,9 @@
 
 ## The Checklist
 - History
-  - Who made the Programming Language
-  - Date of when Released
-  - Other additional facts.
+  - **Who made the Programming Language** - Company or Person.
+  - **Date of when Released** - The initial release date.
+  - **Other additional facts**
   
 - Whats the use of the Language
   - o
