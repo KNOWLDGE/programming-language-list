@@ -15,4 +15,4 @@
   - In-depth text
 
 - Sources
-  - **Reliable Information** - ex. information from their site.
+  - **Reliable/Trusted Information** - ex. information from their site.
