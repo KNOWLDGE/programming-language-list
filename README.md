@@ -3,13 +3,10 @@
 <div align="center">
 <img src="Resources/PLL-banner.png" alt="Programming Language List Banner">
   
-<p>
-  
 [Language List](https://github.com/Maniacxxx/programming-language-list/blob/main/Language-List.md) | 
 [Translations](https://github.com/Maniacxxx/programming-language-list/blob/main/Translations-List.md) | 
 [Contribute](https://github.com/Maniacxxx/programming-language-list/blob/main/Contribute.md) | 
 [Our Discord]()
-</p>
 
 </div>
   
