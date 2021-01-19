@@ -3,9 +3,7 @@
 <div align="center">
 <img src="Resources/PLL-banner.png" alt="Programming Language List Banner">
   
-  [![forthebadge](https://forthebadge.com/images/badges/made-with-markdown.svg)](https://forthebadge.com)
-  [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
-  [![forthebadge](https://forthebadge.com/images/badges/powered-by-energy-drinks.svg)](https://forthebadge.com)
+00000000000000000
 </div>
   
 ---
