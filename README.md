@@ -22,7 +22,7 @@ Instead of just simply showing you how to print "Hello World" in a bunch of lang
 If want to see our progress check out the [Language List](https://github.com/Maniacxxx/programming-language-list/blob/main/Language-List.md). From there just click the name of the language to be directed to the Language's markdown file.
 
 ## How to Contribute
-We know that this project is going to be long and difficult, but you can help! If you are intrested in Contributing click [Here](https://github.com/Maniacxxx/programming-language-list/blob/main/Contribute.md).
+We know that this project is going to be long and difficult, but you can help! If you are intrested in Contributing click [Here](https://github.com/Maniacxxx/programming-language-list/blob/main/CONTRIBUTING.md).
 
 ## Thanks to...
 - [The Hello World Collection](http://helloworldcollection.de/) for their list of programming Languages.
