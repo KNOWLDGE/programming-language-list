@@ -3,7 +3,7 @@
 <div align="center">
     
 <img src="Resources/PLL-banner.png" alt="Programming Language List Banner">
-<img src="Resources/test.png" alt="test">
+<img src="Resources/testt.png" alt="test">
 
 [License: CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) | 
 [Language List](https://github.com/Maniacxxx/programming-language-list/blob/main/Language-List.md) | 
