@@ -4,7 +4,7 @@
     
 <img src="Resources/PLL-banner.png" alt="Programming Language List Banner">
 
-<img src="Resources/testtt.png" alt="test">
+[![forthebadge](https://forthebadge.com/images/badges/powered-by-black-magic.svg)](https://forthebadge.com)
 
 [License: CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) | 
 [Language List](https://github.com/Maniacxxx/programming-language-list/blob/main/Language-List.md) | 
