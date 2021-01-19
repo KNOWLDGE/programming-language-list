@@ -6,7 +6,7 @@
 
   [![License: CC BY-SA 4.0](https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-sa/4.0/)
 
-
+[License: CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) | 
 [Language List](https://github.com/Maniacxxx/programming-language-list/blob/main/Language-List.md) | 
 [Translations](https://github.com/Maniacxxx/programming-language-list/blob/main/Translations-List.md) | 
 [Contribute](https://github.com/Maniacxxx/programming-language-list/blob/main/CONTRIBUTING.md) | 
