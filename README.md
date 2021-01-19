@@ -3,7 +3,7 @@
 <div align="center">
 <img src="Resources/PLL-banner.png" alt="Programming Language List Banner">
   
-<p style="font-size:11px">
+<p style="font-size:20px">
   
 [Language List](https://github.com/Maniacxxx/programming-language-list/blob/main/Language-List.md) | 
 [Translations](https://github.com/Maniacxxx/programming-language-list/blob/main/Translations-List.md) | 
