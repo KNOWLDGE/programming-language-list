@@ -1,7 +1,7 @@
 # Contribute
 
 ## Code of Conduct
-We have a code of conduct that we all must read.
+Everyone that wants to contribute at all **must** read the [Code of Conduct]()
 
 ## Introduce Yourself
 
