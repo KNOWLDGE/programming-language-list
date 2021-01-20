@@ -1,7 +1,9 @@
 # Contribute
 
-## Adding a Programming Language
+## Introduce Yourself
+.
 
+## Creating Pull Requests
 
 ## Contributing
 - If you are intrested in adding a Programming Language click [here](https://github.com/Maniacxxx/programming-language-list/blob/main/Language-Criteria.md) for the requirements.
