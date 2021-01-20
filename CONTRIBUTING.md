@@ -1,7 +1,6 @@
 # Contribute
 
 ## Introduce Yourself
-.
 
 ## Creating Pull Requests
 
