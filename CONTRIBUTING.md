@@ -1,5 +1,8 @@
 # Contribute
 
+## Code of Conduct
+We have a code of conduct that we all must read.
+
 ## Introduce Yourself
 
 ## Creating Pull Requests
