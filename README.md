@@ -4,9 +4,8 @@
     
 <img src="Resources/PLL-banner.png" alt="Programming Language List Banner">
 
-
-
 <img src="Resources/ourDiscord.png" alt="test">
+
 [License: CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) | 
 [Language List](https://github.com/Maniacxxx/programming-language-list/blob/main/Language-List.md) | 
 [Translations](https://github.com/Maniacxxx/programming-language-list/blob/main/Translations-List.md) | 
