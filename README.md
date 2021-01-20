@@ -8,7 +8,8 @@
 [Language List](https://github.com/Maniacxxx/programming-language-list/blob/main/Language-List.md) | 
 [Translations](https://github.com/Maniacxxx/programming-language-list/blob/main/Translations-List.md) | 
 [Contribute](https://github.com/Maniacxxx/programming-language-list/blob/main/CONTRIBUTING.md) | 
-[Our Discord (Coming Soon)]()
+[Twitter (Coming Soon)]() | 
+[Discord (Coming Soon)]()
 
 </div>
   
