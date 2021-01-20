@@ -9,7 +9,8 @@
 [Translations](https://github.com/Maniacxxx/programming-language-list/blob/main/Translations-List.md) | 
 [Contribute](https://github.com/Maniacxxx/programming-language-list/blob/main/CONTRIBUTING.md) | 
 [Twitter (Coming Soon)]() | 
-[Discord (Coming Soon)]()
+[Discord (Coming Soon)]() | 
+[Code of Conduct]()
 
 </div>
   
