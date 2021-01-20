@@ -1,7 +1,7 @@
 # Contribute
 
 ## Code of Conduct
-Everyone that wants to contribute at all **must** read the [Code of Conduct](https://github.com/Maniacxxx/programming-language-list/blob/main/CODE_OF_CONDUCT.md)
+Everyone that wants to contribute at all **must** read the [Code of Conduct](https://github.com/Maniacxxx/programming-language-list/blob/main/CODE_OF_CONDUCT.md).
 
 ## Introduce Yourself
 
