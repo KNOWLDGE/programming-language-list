@@ -10,74 +10,74 @@ See something missing? Click [Here](https://github.com/Maniacxxx/programming-lan
 - `A`
   - placeholder
   
-- B
+- `B`
   - placeholder
   
-- C
+- `C`
   - placeholder
   
-- D
+- `D`
   - placeholder
   
-- E
+- `E`
   - placeholder
   
-- F
+- `F`
   - placeholder
   
-- G
+- `G`
   - placeholder
   
-- H
+- `H`
   - placeholder
   
-- I
+- `I`
   - placeholder
   
-- J
+- `J`
   - placeholder
   
-- K
+- `K`
   - placeholder
   
-- L
+- `L`
   - placeholder
   
-- M
+- `M`
   - placeholder
   
-- N
+- `N`
   - placeholder
   
-- O
+- `O`
   - placeholder
   
-- P
+- `P`
   - placeholder
   
-- Q
+- `Q`
   - placeholder
   
-- R
+- `R`
   - placeholder
   
-- S
+- `S`
   - placeholder
   
-- T
+- `T`
   - placeholder
   
-- U
+- `U`
   - placeholder
   
-- W
+- `W`
   - placeholder
   
-- X
+- `X`
   - placeholder
   
-- Y
+- `Y`
   - placeholder
   
-- Z
+- `Z`
   - placeholder
