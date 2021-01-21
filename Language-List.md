@@ -4,10 +4,10 @@ See something missing? Click [Here](https://github.com/Maniacxxx/programming-lan
 - `#`
   - placeholder
   
-- . . .
+- `. . .`
   - placeholder
   
-- A
+- `A`
   - placeholder
   
 - B
