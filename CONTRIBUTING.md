@@ -11,4 +11,4 @@ Everyone that wants to contribute at all **must** read the [Code of Conduct](htt
 - If you are intrested in fixing typos, or found additional information propose a change. If you have additonal information you must have the source.
 
 ## Translating
-`Currently we are only focusing on the english list. When we have a big portion of the en-list done, we'll update this message.`
+`Currently we are only focusing on the english list. When we have a big portion of the en-list folder done, we'll update this message.`
