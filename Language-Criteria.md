@@ -10,9 +10,9 @@
   - o
 
 - How to Learn (where you can learn)
-  - **Needed Downloads** - What you need to download in order
-  - **In-depth videos** - 
-  - **In-depth text** - Websites, and other
+  - **Needed Downloads** - What you need to download.
+  - **In-depth videos** - Youtube and other video platform.
+  - **In-depth text** - Websites, and other repositories.
 
 - Sources
   - **Reliable/Trusted Information** - ex. information from their site
