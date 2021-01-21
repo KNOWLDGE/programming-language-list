@@ -2,7 +2,6 @@
 See something missing? Click [Here](https://github.com/Maniacxxx/programming-language-list/blob/main/Contribute.md) to help contribute.
 
 - #
-
   - placeholder
   
 - . . .
