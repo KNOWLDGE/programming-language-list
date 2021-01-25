@@ -8,6 +8,7 @@
 [Language List](https://github.com/Maniacxxx/programming-language-list/blob/main/Language-List.md) | 
 [Translations](https://github.com/Maniacxxx/programming-language-list/blob/main/Translations-List.md) | 
 [Contribute](https://github.com/Maniacxxx/programming-language-list/blob/main/CONTRIBUTING.md) | 
+[FAQ]() | 
 [Twitter](https://twitter.com/ListLanguage) | 
 [Discord (Coming Soon)]()
 
