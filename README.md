@@ -8,7 +8,7 @@
 
 <p>
 <em>
-    <!-- Direct Links to Socials and other parts of the Repository. -->
+<!-- Direct Links to Socials and other parts of the Repository. -->
         
 [**License: CC BY-SA 4.0**](https://github.com/Maniacxxx/programming-language-list/blob/main/LICENSE) **·** 
 [**Language List**](https://github.com/Maniacxxx/programming-language-list/blob/main/Language-List.md) **·** 
