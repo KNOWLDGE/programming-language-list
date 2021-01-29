@@ -22,7 +22,7 @@
 </div>
   
 ---
-    <!-- The Body. -->
+<!-- The Body. -->
 
 ## Our Goal
 Instead of just simply showing you how to print "Hello World" in a bunch of languages. Our goal is to have a multitude of Programming Languages listed with information like their history, their use and more.
