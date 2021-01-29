@@ -1,5 +1,5 @@
 # List of All of our Programming Languages
-See something missing? Click [Here](https://github.com/Maniacxxx/programming-language-list/blob/main/Contribute.md) to help contribute.
+See something missing? Click [Here](https://github.com/Programming-Language-List/programming-language-list/blob/main/CONTRIBUTING.md) to help contribute.
 
 - `#`
   - placeholder
