@@ -5,7 +5,8 @@
 <img src="Resources/PLL-banner.png" alt="Programming Language List Banner">
 
 <p align="center">
-
+<em>
+    
 [License: CC BY-SA 4.0](https://github.com/Maniacxxx/programming-language-list/blob/main/LICENSE) | 
 [Language List](https://github.com/Maniacxxx/programming-language-list/blob/main/Language-List.md) | 
 [Translations](https://github.com/Maniacxxx/programming-language-list/blob/main/Translations-List.md) | 
@@ -13,8 +14,9 @@
 [FAQ](https://github.com/Programming-Language-List/programming-language-list/blob/main/FAQ) | 
 [Twitter](https://twitter.com/ListLanguage) | 
 [Discord (Coming Soon)]()
-</p>
+    </em>
 
+</p>
 </div>
   
 ---
