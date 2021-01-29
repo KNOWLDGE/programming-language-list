@@ -36,7 +36,7 @@ If you want to see our progress check out the [Language List](https://github.com
 We know that this project is going to be long and difficult, but you can help! If you are intrested in Contributing click [Here](https://github.com/Maniacxxx/programming-language-list/blob/main/CONTRIBUTING.md).
 
 ## How to Communicate with Us.
-You can directly message to our [Twitter](https://twitter.com/ListLanguage) or through our [Discord Server]() (which is coming soon).
+You can directly message us through our [Twitter](https://twitter.com/ListLanguage) or through our [Discord Server]() (which is coming soon).
 
 ## Thanks to...
 - [The Hello World Collection](http://helloworldcollection.de/) for their list of programming Languages.
