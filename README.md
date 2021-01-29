@@ -7,12 +7,12 @@
 <p align="center">
 <em>
     
-[License: CC BY-SA 4.0](https://github.com/Maniacxxx/programming-language-list/blob/main/LICENSE) | 
-[Language List](https://github.com/Maniacxxx/programming-language-list/blob/main/Language-List.md) | 
-[Translations](https://github.com/Maniacxxx/programming-language-list/blob/main/Translations-List.md) | 
-[Contribute](https://github.com/Maniacxxx/programming-language-list/blob/main/CONTRIBUTING.md) | 
-[FAQ](https://github.com/Programming-Language-List/programming-language-list/blob/main/FAQ) | 
-[Twitter](https://twitter.com/ListLanguage) | 
+[License: CC BY-SA 4.0](https://github.com/Maniacxxx/programming-language-list/blob/main/LICENSE) **·** 
+[Language List](https://github.com/Maniacxxx/programming-language-list/blob/main/Language-List.md) **·** 
+[Translations](https://github.com/Maniacxxx/programming-language-list/blob/main/Translations-List.md) **·** 
+[Contribute](https://github.com/Maniacxxx/programming-language-list/blob/main/CONTRIBUTING.md) **·** 
+[FAQ](https://github.com/Programming-Language-List/programming-language-list/blob/main/FAQ) **·** 
+[Twitter](https://twitter.com/ListLanguage) **·** 
 [Discord (Coming Soon)]()
     </em>
 
