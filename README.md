@@ -1,12 +1,12 @@
 ### ****NOTE:** This is a brand new repository, it'll be a while before it is ready.
 
 <div align="center">
-    
+    <!-- The Programming Language List Banner -->
 <img src="Resources/PLL-banner.png" alt="Programming Language List Banner">
 
 <p>
 <em>
-    <!-- Direct Links to Socials and other parts of the Reposisistory -->
+    <!-- Direct Links to Socials and other parts of the Repository -->
         
 [**License: CC BY-SA 4.0**](https://github.com/Maniacxxx/programming-language-list/blob/main/LICENSE) **·** 
 [**Language List**](https://github.com/Maniacxxx/programming-language-list/blob/main/Language-List.md) **·** 
