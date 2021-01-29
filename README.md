@@ -6,7 +6,8 @@
 
 <p>
 <em>
-    
+    <!-- Direct Links to Socials and other parts of the Reposisistory -->
+        
 [**License: CC BY-SA 4.0**](https://github.com/Maniacxxx/programming-language-list/blob/main/LICENSE) **·** 
 [**Language List**](https://github.com/Maniacxxx/programming-language-list/blob/main/Language-List.md) **·** 
 [**Translations**](https://github.com/Maniacxxx/programming-language-list/blob/main/Translations-List.md) **·** 
