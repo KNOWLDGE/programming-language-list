@@ -4,7 +4,7 @@
     
 <img src="Resources/PLL-banner.png" alt="Programming Language List Banner">
 
-<p align="center">
+<p>
 <em>
     
 [License: CC BY-SA 4.0](https://github.com/Maniacxxx/programming-language-list/blob/main/LICENSE)  **·**  
