@@ -2,7 +2,7 @@
 
 <div align="center">
     
-    <!-- The Programming Language List Banner -->
+<!-- The Programming Language List Banner -->
     
 <img src="Resources/PLL-banner.png" alt="Programming Language List Banner">
 
