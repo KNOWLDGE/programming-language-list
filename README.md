@@ -1,8 +1,6 @@
 <!-- Title [Start] -->
 ### ****NOTE:** This is a brand new repository, it'll be a while before it is ready.
 
-<a href="https://explosion.ai"><img src="https://explosion.ai/assets/img/logo.svg" width="125" height="125" align="right" /></a>
-
 # KNOWLDGE: Programming-Language-List
 
 <!-- The Body [Start] -->
