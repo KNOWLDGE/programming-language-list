@@ -38,9 +38,19 @@ If you want to see our progress check out the [Language List](https://github.com
 ## How to Contribute
 We know that this project is going to be long and difficult, but you can help! If you are intrested in Contributing click [Here](https://github.com/Maniacxxx/programming-language-list/blob/main/CONTRIBUTING.md).
 
-## How to Communicate with Us.
-You can directly message us through our [Twitter](https://twitter.com/ListLanguage) or through our [Discord Server]() (which is coming soon).
+<!-- Social Table [Start] -->
+## Where to ask Questions
 
+| Site/Platform             | Information                                                    |
+| -------------------------- | -------------------------------------------------------------- |
+| Twitter                    | Tweet at Us, we'll be sure to Respond.                         |
+| Discord Server             | Best place to ask questions and discuss about the project. (temporarily unavailable)    |
+| Gmail                      | Gmail Us! (temporarily unavailable)                            |
+
+[twitter]: https://twitter.com/ListLanguage
+[discord server]:
+[gmail]:
+<!-- Social Table [End] -->
 <!-- Contribute List [Start] -->
 ## Thanks to...
 
