@@ -1,7 +1,7 @@
 <!-- Title [Start] -->
 ### ****NOTE:** This is a brand new repository, it'll be a while before it is ready.
 
-<a href="Old Logo"><img src="https://github.com/Programming-Language-List/programming-language-list/blob/main/Resources/mdl.png" width="125" height="125" align="right" /></a>
+<a href="Place Holder"><img src="https://github.com/Programming-Language-List/programming-language-list/blob/main/Resources/image-placeholder.jpg" width="125" height="125" align="right" /></a>
 
 # KNOWLDGE: Programming-Language-List
 
