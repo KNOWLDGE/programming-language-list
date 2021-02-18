@@ -39,13 +39,13 @@ If you want to see our progress check out the [Language List](https://github.com
 We know that this project is going to be long and difficult, but you can help! If you are intrested in Contributing click [Here](https://github.com/Maniacxxx/programming-language-list/blob/main/CONTRIBUTING.md).
 
 <!-- Social Table [Start] -->
-## Where to ask Questions
+## Where to ask Questions (temporarily unavailable)
 
 | Site/Platform             | Information                                                    |
 | -------------------------- | -------------------------------------------------------------- |
 | Twitter                    | Tweet at Us, we'll be sure to Respond.                         |
-| Discord Server             | Best place to ask questions and discuss about the project. (temporarily unavailable)    |
-| Gmail                      | Gmail Us! (temporarily unavailable)                            |
+| Discord Server             | Best place to ask questions and discuss about the project.     |
+| Gmail                      | Gmail Us!                                                      |
 
 [twitter]: https://twitter.com/ListLanguage
 [discord server]:
