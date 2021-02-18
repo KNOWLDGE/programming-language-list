@@ -5,9 +5,9 @@
 
 # KNOWLDGE: Programming-Language-List
 
+<!-- Title [End] -->
 <!-- The Body [Start] -->
 
-## Our Goal
 Instead of just simply showing you how to print "Hello World" in a bunch of languages. Our goal is to have a multitude of Programming Languages listed with information like their history, their use and more.
 
 ## Check it out
@@ -25,3 +25,5 @@ You can directly message us through our [Twitter](https://twitter.com/ListLangua
 
 ## List of Contributors
 *None as of this moment*
+
+<!-- The Body [End] -->
