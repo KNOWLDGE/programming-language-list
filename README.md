@@ -20,20 +20,18 @@ We know that this project is going to be long and difficult, but you can help! I
 You can directly message us through our [Twitter](https://twitter.com/ListLanguage) or through our [Discord Server]() (which is coming soon).
 
 ## Thanks to...
-- [The Hello World Collection](http://helloworldcollection.de/) for their list of programming Languages.
-- And our [Contributors](#List-of-Contributors).
 
-## Collaborators
+### Collaborators
 
 <!-- readme: collaborators -start -->
 <!-- readme: collaborators -end -->
 
-## Contributors
+### Contributors
 
 <!-- readme: contributors -start -->
 <!-- readme: contributors -end -->
 
-## Sponsors
+### Sponsors
 
 <!-- readme: sponsors -start -->
 <!-- readme: sponsors -end -->
