@@ -23,7 +23,19 @@ You can directly message us through our [Twitter](https://twitter.com/ListLangua
 - [The Hello World Collection](http://helloworldcollection.de/) for their list of programming Languages.
 - And our [Contributors](#List-of-Contributors).
 
-## List of Contributors
-*None as of this moment*
+## Collaborators
+
+<!-- readme: collaborators -start -->
+<!-- readme: collaborators -end -->
+
+## Contributors
+
+<!-- readme: contributors -start -->
+<!-- readme: contributors -end -->
+
+## Sponsors
+
+<!-- readme: sponsors -start -->
+<!-- readme: sponsors -end -->
 
 <!-- The Body [End] -->
