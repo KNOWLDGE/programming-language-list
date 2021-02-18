@@ -16,12 +16,12 @@ Instead of just simply showing you how to print "Hello World" in a bunch of lang
 
 | Documentation              | Information                                                    |
 | -------------------------- | -------------------------------------------------------------- |
-| ⚖️ **[License]**           | View our License. (CC-BY-SA-4.0)                               |                                                              |
+| ⚖️ **[License]**           | View our License. (CC-BY-SA-4.0)                               |
 | 💝 **[Contribute]**        | How to contribute to the programming language list.            |
 | 🌐 **[Translations]**      | Available Translations of the Project.                         |
 | ❔ **[FAQ]**                | Frequently Asked Questions.                                    |
 | 💻 **[Language List]**     | Our List of Programming Languages.                             |
-| **[CoC]**                  | Code of Conduct.                                               |
+| 📑 **[CoC]**               | Code of Conduct.                                               |
 
 [license]: https://github.com/KNOWLDGE/programming-language-list/blob/main/LICENSE
 [contribute]: https://github.com/explosion/spaCy/blob/master/CONTRIBUTING.md
