@@ -1,30 +1,9 @@
-<!-- Delete this when the Repo is fully Setup -->
+<!-- Title [Start] -->
 
 ### ****NOTE:** This is a brand new repository, it'll be a while before it is ready.
 
-<div align="center">
-    
-<!-- The Programming Language List Banner -->
-    
-<img src="Resources/PLL-banner.png" alt="Programming Language List Banner">
-
-<p>
-<em>
-<!-- Direct Links to Socials and other parts of the Repository. -->
-        
-[**License: CC BY-SA 4.0**](https://github.com/Maniacxxx/programming-language-list/blob/main/LICENSE) **·** 
-[**Language List**](https://github.com/Maniacxxx/programming-language-list/blob/main/Language-List.md) **·** 
-[**Translations**](https://github.com/Maniacxxx/programming-language-list/blob/main/Translations-List.md) **·** 
-[**Contribute**](https://github.com/Maniacxxx/programming-language-list/blob/main/CONTRIBUTING.md) **·** 
-[**FAQ**](https://github.com/Programming-Language-List/programming-language-list/blob/main/FAQ) **·** 
-[**Twitter**](https://twitter.com/ListLanguage) **·** 
-[**Discord (Coming Soon)**]()
-    </em>
-</p>
-</div>
-  
----
-<!-- The Body. -->
+#KNOWLDGE: Programming-Language-List
+<!-- The Body [Start] -->
 
 ## Our Goal
 Instead of just simply showing you how to print "Hello World" in a bunch of languages. Our goal is to have a multitude of Programming Languages listed with information like their history, their use and more.
