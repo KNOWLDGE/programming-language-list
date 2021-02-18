@@ -39,6 +39,7 @@ We know that this project is going to be long and difficult, but you can help! I
 ## How to Communicate with Us.
 You can directly message us through our [Twitter](https://twitter.com/ListLanguage) or through our [Discord Server]() (which is coming soon).
 
+<!-- Contribute List [Start] -->
 ## Thanks to...
 
 ### Collaborators
@@ -56,4 +57,5 @@ You can directly message us through our [Twitter](https://twitter.com/ListLangua
 <!-- readme: sponsors -start -->
 <!-- readme: sponsors -end -->
 
+<!-- Contribute List [End] -->
 <!-- The Body [End] -->
