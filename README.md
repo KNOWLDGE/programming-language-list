@@ -41,7 +41,7 @@ Instead of just simply showing you how to print "Hello World" in a bunch of lang
 | **Questions**              | [Twitter] - [Discord Server]                                |
 
 [github issue tracker]: https://github.com/KNOWLDGE/programming-language-list/issues
-[discord server]: discord.gg
+[discord server]: https://discord.gg
 [twitter]: https://twitter.com/ListLanguage
 
 <!-- Social Table [End] -->
