@@ -24,7 +24,7 @@ Instead of just simply showing you how to print "Hello World" in a bunch of lang
 | 📑 **[CoC]**               | Code of Conduct.                                               |
 
 [license]: https://github.com/KNOWLDGE/programming-language-list/blob/main/LICENSE
-[contribute]: https://github.com/explosion/spaCy/blob/master/CONTRIBUTING.md
+[contribute]: https://github.com/KNOWLDGE/programming-language-list/blob/main/CONTRIBUTING.md
 [translations]: https://github.com/KNOWLDGE/programming-language-list/blob/main/Translations-List.md
 [faq]: https://github.com/KNOWLDGE/programming-language-list/blob/main/FAQ.md
 [language list]: https://github.com/KNOWLDGE/programming-language-list/blob/main/Language-List.md
