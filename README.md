@@ -37,7 +37,7 @@ Instead of just simply showing you how to print "Hello World" in a bunch of lang
 | Site/Platform              | Information                                                    |
 | -------------------------- | -------------------------------------------------------------- |
 | 🐦 **[Twitter]**          | Tweet at Us, we'll be sure to Respond.                         |
-| **[Discord Server]**       | Best place to ask questions and discuss about the project.     |
+| 💬 **[Discord Server]**      | Best place to ask questions and discuss about the project.     |
 | 📧 **[Gmail]**            | Gmail Us!                                                      |
 
 [twitter]: https://twitter.com/ListLanguage
