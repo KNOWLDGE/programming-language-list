@@ -41,8 +41,8 @@ Instead of just simply showing you how to print "Hello World" in a bunch of lang
 | **[Gmail]**                | Gmail Us!                                                      |
 
 [twitter]: https://twitter.com/ListLanguage
-[discord server]:
-[gmail]:
+[discord server]: 
+[gmail]: 
 <!-- Social Table [End] -->
 <!-- Contribute List [Start] -->
 ## Thanks to...
