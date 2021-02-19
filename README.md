@@ -1,5 +1,5 @@
 <!-- Title [Start] -->
-### ****NOTE:** This is a brand new repository, it'll be a while before it is ready.
+### ****NOTE:** Repository is not fully setup. Some links might be invalid.
 
 <a href="Place Holder"><img src="https://github.com/Programming-Language-List/programming-language-list/blob/main/Resources/image-placeholder.jpg" width="125" height="125" align="right" /></a>
 
