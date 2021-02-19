@@ -6,7 +6,8 @@ Everyone that wants to contributec, **must** read the [Code of Conduct](https://
 ## Contributing
 
 ### Typos/Small Fixes
-
+When making a correction find the Typo in the Text.
+[!]Step 1](https://github.com/KNOWLDGE/programming-language-list/blob/main/Resources/smallfix-step1.png)
 ### t
 
 ### Translating
