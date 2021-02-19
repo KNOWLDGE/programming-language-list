@@ -34,11 +34,11 @@ Instead of just simply showing you how to print "Hello World" in a bunch of lang
 <!-- Social Table [Start] -->
 ## ⁉️ Where to Communicate With Us (temporarily unavailable)
 
-| Site/Platform              | Information                                                 |
+| Typec                      | Platform                                                    |
 | -------------------------- | ----------------------------------------------------------- |
-| **Feature Request**        | [Github Issue Tracker]
-| **Discussion**             | [Discord Server]
-| **Questions**              | [Twitter] - [Discord Server]
+| **Feature Request**        | [Github Issue Tracker]                                      |
+| **Discussion**             | [Discord Server]                                            |
+| **Questions**              | [Twitter] - [Discord Server]                                |
 
 [github issue tracker]: https://github.com/KNOWLDGE/programming-language-list/issues
 [discord server]: discord.gg
