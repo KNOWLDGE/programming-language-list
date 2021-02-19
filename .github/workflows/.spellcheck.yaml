@@ -13,4 +13,3 @@ jobs:
       with:
         source_files: README.md FAQ.md CONTRIBUTING.md Translations-List.md Language-Criteria.md
         task_name: Markdown
-            spellchecker: hunspell
