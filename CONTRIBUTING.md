@@ -9,7 +9,7 @@ Everyone that wants to contributec, **must** read the [Code of Conduct](https://
 **Step 1.** When making a correction find the Typo in the Text.
 
 
-### Adding A Programming Language/Big Additions
+### Adding a Programming Language/Big Additions
 
 ### Translating
 Currently we are only focusing on the english list. When we have a big portion of the en-list folder done, we'll update you through the [Discord Server]() and [Twitter](https://twitter.com/ListLanguage).
