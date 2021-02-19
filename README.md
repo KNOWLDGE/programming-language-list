@@ -32,7 +32,7 @@ Instead of just simply showing you how to print "Hello World" in a bunch of lang
 
 <!-- Navigation [End] -->
 <!-- Social Table [Start] -->
-## Where to ask Questions (temporarily unavailable)
+## ⁉️ Where to ask Questions (temporarily unavailable)
 
 | Site/Platform              | Information                                                    |
 | -------------------------- | -------------------------------------------------------------- |
