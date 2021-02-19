@@ -11,4 +11,4 @@ Everyone that wants to contributec, **must** read the [Code of Conduct](https://
 - If you are intrested in fixing typos, or found additional information propose a change. If you have additonal information you must have the source.
 
 ## Translating
-`Currently we are only focusing on the english list. When we have a big portion of the en-list folder done, we'll update you through the [Discord Server]() and [Twitter](https://twitter.com/ListLanguage).`
+Currently we are only focusing on the english list. When we have a big portion of the en-list folder done, we'll update you through the [Discord Server]() and [Twitter](https://twitter.com/ListLanguage).
