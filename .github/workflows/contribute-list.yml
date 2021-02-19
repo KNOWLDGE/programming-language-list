@@ -1,3 +1,4 @@
+name: Spellcheck Action
 on:
     push:
         branches:
