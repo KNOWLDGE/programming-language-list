@@ -34,7 +34,7 @@ Instead of just simply showing you how to print "Hello World" in a bunch of lang
 <!-- Social Table [Start] -->
 ## ⁉️ Where to Communicate With Us (temporarily unavailable)
 
-| Typec                      | Platform                                                    |
+| Type                       | Platform                                                    |
 | -------------------------- | ----------------------------------------------------------- |
 | **Feature Request**        | [Github Issue Tracker]                                      |
 | **Discussion**             | [Discord Server]                                            |
