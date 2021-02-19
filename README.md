@@ -32,17 +32,17 @@ Instead of just simply showing you how to print "Hello World" in a bunch of lang
 
 <!-- Navigation [End] -->
 <!-- Social Table [Start] -->
-## ⁉️ Where to ask Questions (temporarily unavailable)
+## ⁉️ Where to Communicate With Us (temporarily unavailable)
 
-| Site/Platform              | Information                                                    |
-| -------------------------- | -------------------------------------------------------------- |
-| 🐦 **[Twitter]**          | Tweet at Us, we'll be sure to Respond.                         |
-| 💬 **[Discord Server]**      | Best place to ask questions and discuss about the project.     |
-| 📧 **[Gmail]**            | Gmail Us!                                                      |
+| Site/Platform              | Information                                                 |
+| -------------------------- | ----------------------------------------------------------- |
+| **Feature Request**        | [Github Issue Tracker]
+| **Discussion**             | [Discord Server]
+| **Questions**              | [Twitter] - [Discord Server]
 
+[github issue tracker]: https://github.com/KNOWLDGE/programming-language-list/issues
+[discord server]: discord.gg
 [twitter]: https://twitter.com/ListLanguage
-[discord-server]: discord.gg
-[gmail]: MarkdownLists@gmail.com
 
 <!-- Social Table [End] -->
 <!-- Contribute List [Start] -->
