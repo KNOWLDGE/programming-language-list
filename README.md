@@ -51,16 +51,45 @@ Instead of just simply showing you how to print "Hello World" in a bunch of lang
 ### Collaborators
 
 <!-- readme: collaborators -start -->
+<table>
+<tr>
+    <td align="center">
+        <a href="https://github.com/Maniacxxx">
+            <img src="https://avatars.githubusercontent.com/u/52683414?v=4" width="100;" alt="Maniacxxx"/>
+            <br />
+            <sub><b>Maniac</b></sub>
+        </a>
+    </td></tr>
+</table>
 <!-- readme: collaborators -end -->
 
 ### Contributors
 
 <!-- readme: contributors -start -->
+<table>
+<tr>
+    <td align="center">
+        <a href="https://github.com/Maniacxxx">
+            <img src="https://avatars.githubusercontent.com/u/52683414?v=4" width="100;" alt="Maniacxxx"/>
+            <br />
+            <sub><b>Maniac</b></sub>
+        </a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/ImgBotApp">
+            <img src="https://avatars.githubusercontent.com/u/31427850?v=4" width="100;" alt="ImgBotApp"/>
+            <br />
+            <sub><b>Imgbot</b></sub>
+        </a>
+    </td></tr>
+</table>
 <!-- readme: contributors -end -->
 
 ### Sponsors
 
 <!-- readme: sponsors -start -->
+<table>
+</table>
 <!-- readme: sponsors -end -->
 
 <!-- Contribute List [End] -->
