@@ -48,21 +48,6 @@ Instead of just simply showing you how to print "Hello World" in a bunch of lang
 <!-- Contribute List [Start] -->
 ## Thanks to...
 
-### Collaborators
-
-<!-- readme: collaborators -start -->
-<table>
-<tr>
-    <td align="center">
-        <a href="https://github.com/Maniacxxx">
-            <img src="https://avatars.githubusercontent.com/u/52683414?v=4" width="100;" alt="Maniacxxx"/>
-            <br />
-            <sub><b>Maniac</b></sub>
-        </a>
-    </td></tr>
-</table>
-<!-- readme: collaborators -end -->
-
 ### Contributors
 
 <!-- readme: contributors -start -->
