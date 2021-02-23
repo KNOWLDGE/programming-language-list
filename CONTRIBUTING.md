@@ -6,7 +6,7 @@ Everyone that wants to contributec, **must** read the [Code of Conduct](https://
 ## 💝 Contributing
 
 ### Typos/Small Fixes
-**Step 1.** When making a correction find the Typo in the Text.
+**Step 1.** When making a correction find the word(s) that you want to correct/reword.
 
 ### Adding a Programming Language/Big Additions
 
