@@ -1,5 +1,5 @@
 <!-- Title [Start] -->
-### ``**`` Repository is not fully setup. Some links/Information might be invalid or unfinished.
+### ``Repository is not fully setup. Some links/Information might be invalid or unfinished.``
 
 <a href="Place Holder"><img src="https://github.com/Programming-Language-List/programming-language-list/blob/main/Resources/image-placeholder.jpg" width="125" height="125" align="right" /></a>
 
