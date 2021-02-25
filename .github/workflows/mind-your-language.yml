@@ -1,4 +1,4 @@
-name: Mind your language
+name: Profanity Check Action
 on:
   issues:
     types:
