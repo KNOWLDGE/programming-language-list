@@ -30,7 +30,7 @@ Instead of just simply showing you how to print "Hello World" in a bunch of lang
 [faq]: https://github.com/KNOWLDGE/programming-language-list/blob/main/FAQ.md
 [language list]: https://github.com/KNOWLDGE/programming-language-list/blob/main/Language-List.md
 [coc]: https://github.com/KNOWLDGE/programming-language-list/blob/main/CODE_OF_CONDUCT.md
-[contributors]: https://github.com/KNOWLDGE/programming-language-list#thanks-to
+[contributors]: #thanks-to
 
 <!-- Navigation [End] -->
 <!-- Social Table [Start] -->
